@@ -22,7 +22,7 @@ class Sort extends Component {
                         <li>
                             <a role="button" className="sort-select">
                                 <span className="fa fa-sort-alpha-asc">
-                                    Ten A-Z
+                                    Ten A-ZZ
                                 </span>
                             </a>
                         </li>
